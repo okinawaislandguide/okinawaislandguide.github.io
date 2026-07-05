@@ -1,18 +1,5 @@
 [
   {
-    "slug": "zamami-where-to-stay",
-    "islands": ["zamami"],
-    "category_en": "Zamami · Where to stay",
-    "category_ja": "座間味・宿",
-    "title_en": "Where to stay on Zamami — by travel style",
-    "title_ja": "座間味の宿 — 旅のスタイル別",
-    "excerpt_en": "Local, international, budget, luxury, family or diver-friendly? Filter Zamami's stays by what matters to you.",
-    "excerpt_ja": "地元・国際的・安い・上質・家族・ダイバー向け？重視するもので座間味の宿を絞り込み。",
-    "thumb": "assets/img/beach-zamami.png",
-    "thumb_class": "t-beach",
-    "date": "2026-06-28"
-  },
-  {
     "slug": "zamami-diving",
     "islands": ["zamami", "aka"],
     "category_en": "Kerama · Diving",
@@ -49,19 +36,6 @@
     "excerpt_ja": "高月山で大パノラマとクジラ探し、神の浜・稲崎で忘れられない慶良間サンセット。",
     "thumb": "assets/img/zamami-aerial.png",
     "thumb_class": "t-access",
-    "date": "2026-06-28"
-  },
-  {
-    "slug": "zamami-itinerary",
-    "islands": ["zamami"],
-    "category_en": "Zamami · Itinerary",
-    "category_ja": "座間味・モデルコース",
-    "title_en": "Zamami in 2 days: a model itinerary",
-    "title_ja": "座間味 2日間モデルコース",
-    "excerpt_en": "A relaxed one-night plan — both beaches, a sunset, and how to build in a buffer for rough seas.",
-    "excerpt_ja": "1泊のゆるめプラン — 2つのビーチ、サンセット、そして時化に備えた予備日の作り方。",
-    "thumb": "assets/img/beach-zamami.png",
-    "thumb_class": "t-beach",
     "date": "2026-06-28"
   },
   {
