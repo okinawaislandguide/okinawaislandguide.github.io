@@ -1,0 +1,7 @@
+# ---- Draft / 非公開ページ（本番に出さない） ----
+# 準備中で未公開のページと、その専用画像はデプロイ対象から除外する。
+# 公開したくなったら、この行を消して posts.json 登録＋島カード有効化＋push する。
+
+# 渡嘉敷（ドラフト・非公開）
+islands/tokashiki.html
+assets/img/tokashiki-*.jpg
