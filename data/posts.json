@@ -21,7 +21,7 @@
     "title_ja": "慶良間でダイビング：ショップ＆ガイド",
     "excerpt_en": "Kerama Blue visibility, coral and sea turtles. Seasons, what to expect, and how to choose a dive shop on Zamami and Aka.",
     "excerpt_ja": "ケラマブルーの透明度、サンゴ、ウミガメ。季節・見どころ・座間味/阿嘉のショップの選び方。",
-    "thumb": "assets/img/hero-kerama.jpg",
+    "thumb": "assets/img/dive-1.jpg",
     "thumb_class": "t-access",
     "date": "2026-06-28"
   },
@@ -34,7 +34,7 @@
     "title_ja": "座間味でシーカヤック＆SUP",
     "excerpt_en": "Glide over the Kerama Blue by kayak or paddleboard. Conditions, what to expect and how to pick a tour.",
     "excerpt_ja": "カヤックやSUPでケラマブルーの上を。コンディション・見どころ・ツアーの選び方。",
-    "thumb": "assets/img/asa-port.jpg",
+    "thumb": "assets/img/kayak-1.jpg",
     "thumb_class": "t-access",
     "date": "2026-06-28"
   },
@@ -73,7 +73,7 @@
     "title_ja": "阿嘉・慶留間 — 静かな慶良間ガイド",
     "excerpt_en": "The quieter Keramas — Nishibama Beach, wild Kerama deer, and two bridge-linked islands to explore slowly.",
     "excerpt_ja": "静かな慶良間 — ニシバマビーチ、野生のケラマジカ、橋でつながる2島をのんびり。",
-    "thumb": "assets/img/asa-port.jpg",
+    "thumb": "assets/img/aka-bridge.jpg",
     "thumb_class": "t-access",
     "date": "2026-06-28"
   },
@@ -99,7 +99,7 @@
     "title_ja": "座間味のベストビーチ：古座間味＆阿真でシュノーケル",
     "excerpt_en": "Two beaches, two moods — coral and tropical fish at Furuzamami, gentle sea turtles at Ama. How to enjoy both.",
     "excerpt_ja": "性格の違う2つのビーチ。古座間味はサンゴと熱帯魚、阿真はウミガメ。両方の楽しみ方。",
-    "thumb": "assets/img/beach-zamami.png",
+    "thumb": "assets/img/turtle-1.jpg",
     "thumb_class": "t-beach",
     "date": "2026-06-27"
   },
@@ -112,7 +112,7 @@
     "title_ja": "座間味のホエールウォッチング（1〜3月）",
     "excerpt_en": "Every winter humpback whales return to the Kerama waters to breed. When to go, what to expect, and how to book.",
     "excerpt_ja": "毎冬、ザトウクジラが繁殖のため慶良間の海に戻ります。時期・見どころ・予約方法。",
-    "thumb": "assets/img/hero-kerama.jpg",
+    "thumb": "assets/img/whale-1.jpg",
     "thumb_class": "t-ferry",
     "date": "2026-06-27"
   },
