@@ -1,5 +1,18 @@
 [
   {
+    "slug": "zamami-where-to-stay",
+    "islands": ["zamami"],
+    "category_en": "Zamami · Where to stay",
+    "category_ja": "座間味・宿",
+    "title_en": "Where to stay on Zamami — by travel style",
+    "title_ja": "座間味の宿 — 旅のスタイル別",
+    "excerpt_en": "Local, international, budget, luxury or diver-friendly? Ten Zamami stays by area (Zamami / Ama / Asa) and travel style, with what guests praise and English support.",
+    "excerpt_ja": "地元・国際的・安い・上質・ダイバー向け？エリア（座間味/阿真/阿佐）と旅のスタイル別に座間味の宿10軒。口コミの評価点と外国人対応つき。",
+    "thumb": "assets/img/beach-zamami.png",
+    "thumb_class": "t-beach",
+    "date": "2026-07-06"
+  },
+  {
     "slug": "zamami-diving",
     "islands": ["zamami", "aka"],
     "category_en": "Kerama · Diving",
