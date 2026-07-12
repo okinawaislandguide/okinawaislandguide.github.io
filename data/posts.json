@@ -1,5 +1,44 @@
 [
   {
+    "slug": "zamami-activities",
+    "islands": ["zamami"],
+    "category_en": "Zamami · Activities",
+    "category_ja": "座間味・アクティビティ",
+    "title_en": "Things to do on Zamami — activities & marine shops",
+    "title_ja": "座間味のアクティビティ — マリンショップ一覧",
+    "excerpt_en": "Diving, boat snorkel, kayak & SUP, nature walks and winter whale watching — real Zamami operators by activity type, with honest notes and English support.",
+    "excerpt_ja": "ダイビング・ボートシュノーケル・カヤック＆SUP・自然散策・冬のホエール。座間味の事業者を種別で、正直な短所と外国人対応つき。",
+    "emoji": "🤿",
+    "thumb_class": "t-access",
+    "date": "2026-07-12"
+  },
+  {
+    "slug": "aka-activities",
+    "islands": ["aka"],
+    "category_en": "Aka & Geruma · Activities",
+    "category_ja": "阿嘉・慶留間・アクティビティ",
+    "title_en": "Things to do on Aka & Geruma — activities & marine shops",
+    "title_ja": "阿嘉・慶留間のアクティビティ — マリンショップ一覧",
+    "excerpt_en": "A small, diving-led scene — dive shops (that also run boat snorkel) and a kayak/SUP operator, with honest notes and English support.",
+    "excerpt_ja": "小規模でダイビング中心——ダイブショップ（ボートシュノーケルも）とカヤック/SUP事業者。正直な短所と外国人対応つき。",
+    "emoji": "🤿",
+    "thumb_class": "t-access",
+    "date": "2026-07-12"
+  },
+  {
+    "slug": "tokashiki-activities",
+    "islands": ["tokashiki"],
+    "category_en": "Tokashiki · Activities",
+    "category_ja": "渡嘉敷・アクティビティ",
+    "title_en": "Things to do on Tokashiki — activities & marine shops",
+    "title_ja": "渡嘉敷のアクティビティ — マリンショップ一覧",
+    "excerpt_en": "Diving, boat snorkel, sea kayak, night stargazing and winter whale watching — real island-based operators by activity type, with honest notes.",
+    "excerpt_ja": "ダイビング・ボートシュノーケル・シーカヤック・星空ナイト・冬のホエール。島拠点の事業者を種別で、正直な短所つき。",
+    "emoji": "🐋",
+    "thumb_class": "t-ferry",
+    "date": "2026-07-12"
+  },
+  {
     "slug": "taketomi-where-to-stay",
     "islands": ["taketomi"],
     "category_en": "Taketomi · Where to stay",
