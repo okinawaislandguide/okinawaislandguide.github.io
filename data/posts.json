@@ -2,12 +2,12 @@
   {
     "slug": "zamami-activities",
     "islands": ["zamami"],
-    "category_en": "Zamami · Activities",
-    "category_ja": "座間味・アクティビティ",
-    "title_en": "Things to do on Zamami — activities & marine shops",
-    "title_ja": "座間味のアクティビティ — マリンショップ一覧",
-    "excerpt_en": "Diving, boat snorkel, kayak & SUP, nature walks and winter whale watching — real Zamami operators by activity type, with honest notes and English support.",
-    "excerpt_ja": "ダイビング・ボートシュノーケル・カヤック＆SUP・自然散策・冬のホエール。座間味の事業者を種別で、正直な短所と外国人対応つき。",
+    "category_en": "Zamami · Operators",
+    "category_ja": "座間味・おすすめ事業者",
+    "title_en": "Zamami's recommended marine & activity operators",
+    "title_ja": "座間味のおすすめマリンショップ・アクティビティ事業者",
+    "excerpt_en": "Diving, boat snorkel, kayak & SUP, a nature guide and winter whale watching — recommended Zamami operators (from the tourism association's directory) with what reviewers actually say, good and bad.",
+    "excerpt_ja": "ダイビング・ボートシュノーケル・カヤック＆SUP・自然ガイド・冬のホエール。観光協会掲載を基準にしたおすすめ事業者を、実際の口コミの評価点・正直な短所つきで。",
     "emoji": "🤿",
     "thumb_class": "t-access",
     "date": "2026-07-12"
