@@ -28,6 +28,9 @@ const CONFIG = {
   ];
   byId.forEach(([id,url])=>applyLink(document.getElementById(id), url));
 
+  /* ---- リンク適用：class="js-instagram"（複数可・DM誘導リンク等） ---- */
+  document.querySelectorAll('.js-instagram').forEach(el=>applyLink(el, CONFIG.instagram));
+
   /* ---- リンク適用：data-aff="hotel" を持つ全要素 ---- */
   document.querySelectorAll('[data-aff="hotel"]').forEach(el=>{
     // 記事側で data-href に個別ホテルリンクがあればそれを優先、無ければ共通の那覇検索
