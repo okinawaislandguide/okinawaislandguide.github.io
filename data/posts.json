@@ -1,5 +1,18 @@
 [
   {
+    "slug": "aka-where-to-stay",
+    "islands": ["aka"],
+    "category_en": "Aka & Geruma · Where to stay",
+    "category_ja": "阿嘉・慶留間・宿",
+    "title_en": "Where to stay on Aka & Geruma — by travel style",
+    "title_ja": "阿嘉・慶留間の宿 — 旅のスタイル別",
+    "excerpt_en": "Local, international, budget, luxury or diver-friendly? Six real Aka Island stays — minshuku, pensions and guesthouses — with what guests praise and English support.",
+    "excerpt_ja": "地元・国際的・安い・上質・ダイバー向け？阿嘉島の宿6軒（民宿・ペンション・ゲストハウス）。口コミの評価点と外国人対応つき。",
+    "thumb": "assets/img/nishibama.jpg",
+    "thumb_class": "t-beach",
+    "date": "2026-07-12"
+  },
+  {
     "slug": "zamami-where-to-stay",
     "islands": ["zamami"],
     "category_en": "Zamami · Where to stay",
