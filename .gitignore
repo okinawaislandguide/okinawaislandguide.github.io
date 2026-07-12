@@ -8,3 +8,8 @@ assets/img/tokashiki-*.jpg
 
 # 座間味 モデルコース（精査中・非公開）
 articles/zamami-itinerary.html
+
+# ---- 内部用ドキュメント（絶対に公開しない） ----
+# 送客戦略・中立性の“装い”方など、公開すると中立性が崩れる内部方針メモ。
+_internal/
+
