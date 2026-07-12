@@ -8,6 +8,7 @@
     "title_ja": "竹富の宿 — 旅のスタイル別",
     "excerpt_en": "Traditional minshuku in the preserved red-tile village and one luxury resort — local, budget and luxury — with what guests praise and honest notes.",
     "excerpt_ja": "保存された赤瓦の集落の伝統的な民宿と、上質なリゾート1軒。地元・安い・上質のスタイル別に、口コミの評価点と正直な短所つき。",
+    "thumb": "assets/img/taketomi.jpg",
     "emoji": "🏘️",
     "thumb_class": "t-beach",
     "date": "2026-07-12"
@@ -21,6 +22,7 @@
     "title_ja": "西表の宿 — 旅のスタイル別",
     "excerpt_en": "Hotels, a jungle lodge, pensions and a hostel around Uehara (north) and Ohara (south) — with which ferry port each is near, and honest notes.",
     "excerpt_ja": "上原（北）・大原（南）周辺のホテル・ジャングルロッジ・ペンション・ホステル。各宿の最寄り港も明記し、正直な短所つき。",
+    "thumb": "assets/img/iriomote.jpg",
     "emoji": "🌿",
     "thumb_class": "t-access",
     "date": "2026-07-12"
@@ -47,6 +49,7 @@
     "title_ja": "黒島の宿 — 旅のスタイル別",
     "excerpt_en": "A handful of quiet, family-run minshuku near the port — local, budget and diver-friendly — with what guests praise and honest notes.",
     "excerpt_ja": "港近くの静かな家族経営の民宿を数軒。地元・安い・ダイバー向けのスタイル別に、口コミの評価点と正直な短所つき。",
+    "thumb": "assets/img/kuroshima.jpg",
     "emoji": "🐄",
     "thumb_class": "t-access",
     "date": "2026-07-12"
@@ -60,6 +63,7 @@
     "title_ja": "波照間の宿 — 旅のスタイル別",
     "excerpt_en": "Small family-run minshuku and a backpacker guesthouse on Japan's southernmost island — with honest notes and ferry-cancellation cautions.",
     "excerpt_ja": "日本最南端の島の、小さな家族経営の民宿とバックパッカー宿。正直な短所と、フェリー欠航への注意つき。",
+    "thumb": "assets/img/hateruma.jpg",
     "emoji": "🌌",
     "thumb_class": "t-ferry",
     "date": "2026-07-12"
