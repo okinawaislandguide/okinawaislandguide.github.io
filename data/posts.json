@@ -1,5 +1,44 @@
 [
   {
+    "slug": "iriomote-activities",
+    "islands": ["iriomote"],
+    "category_en": "Iriomote · Operators",
+    "category_ja": "西表・おすすめ事業者",
+    "title_en": "Iriomote's recommended tour & activity operators",
+    "title_ja": "西表のおすすめツアー・アクティビティ事業者",
+    "excerpt_en": "Jungle kayak to Pinaisara Falls, Urauchi & Nakama river cruises, snorkel and diving — recommended Iriomote operators from the tourism association, with what reviewers actually say.",
+    "excerpt_ja": "ピナイサーラへのジャングルカヤック、浦内川・仲間川クルーズ、シュノーケル、ダイビング。観光協会掲載の西表のおすすめ事業者を、実際の口コミの評価点・短所つきで。",
+    "emoji": "🛶",
+    "thumb_class": "t-access",
+    "date": "2026-07-12"
+  },
+  {
+    "slug": "taketomi-activities",
+    "islands": ["taketomi"],
+    "category_en": "Taketomi · Operators",
+    "category_ja": "竹富・おすすめ事業者",
+    "title_en": "Taketomi's recommended tours & rentals",
+    "title_ja": "竹富のおすすめツアー・レンタル事業者",
+    "excerpt_en": "The water-buffalo cart village tour, a glass-bottom boat and bicycle rentals — recommended Taketomi operators from the tourism association, with what reviewers actually say.",
+    "excerpt_ja": "水牛車の集落めぐり、グラスボート、レンタサイクル。観光協会掲載の竹富のおすすめ事業者を、実際の口コミの評価点・短所つきで。",
+    "emoji": "🐃",
+    "thumb_class": "t-beach",
+    "date": "2026-07-12"
+  },
+  {
+    "slug": "kohama-activities",
+    "islands": ["kohama"],
+    "category_en": "Kohama · Operators",
+    "category_ja": "小浜・おすすめ事業者",
+    "title_en": "Kohama's recommended marine & activity operators",
+    "title_ja": "小浜のおすすめマリンショップ・アクティビティ事業者",
+    "excerpt_en": "Snorkel and 'phantom island' trips and diving from Kohama-resident shops — with what reviewers actually say. SUP/kayak run via a portal; the resorts run in-house activities.",
+    "excerpt_ja": "小浜在住店のシュノーケル・幻の島・ダイビングを、実際の口コミの評価点・短所つきで。SUP/カヤックはポータル、館内はリゾート。",
+    "emoji": "🐠",
+    "thumb_class": "t-beach",
+    "date": "2026-07-12"
+  },
+  {
     "slug": "zamami-activities",
     "islands": ["zamami"],
     "category_en": "Zamami · Operators",
