@@ -1,5 +1,18 @@
 [
   {
+    "slug": "tokashiki-where-to-stay",
+    "islands": ["tokashiki"],
+    "category_en": "Tokashiki · Where to stay",
+    "category_ja": "渡嘉敷・宿",
+    "title_en": "Where to stay on Tokashiki — by travel style",
+    "title_ja": "渡嘉敷の宿 — 旅のスタイル別",
+    "excerpt_en": "Local, international, budget, luxury or diver-friendly? Six real Tokashiki stays around Aharen and Tokashiku — pensions, guesthouses and hotels — with what guests praise and English support.",
+    "excerpt_ja": "地元・国際的・安い・上質・ダイバー向け？阿波連・とかしくの渡嘉敷の宿6軒（ペンション・ゲストハウス・ホテル）。口コミの評価点と外国人対応つき。",
+    "thumb": "assets/img/aharen-beach.jpg",
+    "thumb_class": "t-beach",
+    "date": "2026-07-12"
+  },
+  {
     "slug": "aka-where-to-stay",
     "islands": ["aka"],
     "category_en": "Aka & Geruma · Where to stay",
