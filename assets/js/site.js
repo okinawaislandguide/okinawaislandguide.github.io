@@ -11,8 +11,8 @@ const CONFIG = {
   //    個別ホテルの実リンクは記事側の data-href 属性で上書きできます。
   hotel_search : "#",   // 那覇エリアの検索結果（日付つきディープリンク等）
 
-  // ① 民泊 01_kucha-homestay
-  homestay : "#",
+  // ① 民泊 01_kucha-homestay（Homestay Kucha 予約ページ）
+  homestay : "https://bonarrivee.airhost.co/ja/houses/772915",
 
   // ③ コンサル先施設 03_hospitality-expansion
   consult : "#",
