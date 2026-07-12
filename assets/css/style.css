@@ -38,6 +38,8 @@ a{color:inherit}
 .ja{display:none}
 body[data-lang="ja"] .ja{display:initial}
 body[data-lang="ja"] .en{display:none}
+/* 英語表示のみ表示（日本語表示では丸ごと非表示。Kucha=海外ゲスト向けの掲載に使用） */
+body[data-lang="ja"] .en-only{display:none !important}
 
 /* ---------- Top bar (bright, translucent white) ---------- */
 .topbar{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--aqua-light)}
